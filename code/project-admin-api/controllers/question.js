@@ -1,11 +1,12 @@
 /*
- * @Author: your name
- * @Date: 2021-04-13 21:57:41
- * @LastEditTime: 2021-04-17 18:42:36
- * @LastEditors: Please set LastEditors
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:12
+ * @LastEditTime: 2021-08-24 10:23:47
+ * @LastEditors: your name
  * @Description: In User Settings Edit
- * @FilePath: \wish-admin-api\controllers\question.js
+ * @FilePath: \code\project-admin-api\controllers\question.js
  */
+
 // 引入公共方法
 const Common = require('./common');
 // 引入question表的model

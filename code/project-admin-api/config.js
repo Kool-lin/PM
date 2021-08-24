@@ -1,11 +1,12 @@
 /*
- * @Author: your name
- * @Date: 2019-04-21 15:46:32
- * @LastEditTime: 2021-04-17 19:36:40
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:12
+ * @LastEditTime: 2021-08-24 10:01:09
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \第3章\project-admin-api\config.js
+ * @FilePath: \code\project-admin-api\config.js
  */
+
 // 默认dev配置
 const config = {
     // 是否调试模式

@@ -1,11 +1,12 @@
 /*
- * @Author: your name
- * @Date: 2021-05-31 13:55:05
- * @LastEditTime: 2021-05-31 17:01:59
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:12
+ * @LastEditTime: 2021-08-24 10:24:33
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \project-admin-api\controllers\team.js
+ * @FilePath: \code\project-admin-api\controllers\team.js
  */
+
 // 引入公共方法
 const Common = require('./common');
 // 引入team表的model

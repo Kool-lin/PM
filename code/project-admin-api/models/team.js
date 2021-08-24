@@ -1,11 +1,12 @@
 /*
- * @Author: your name
- * @Date: 2021-05-31 13:54:37
- * @LastEditTime: 2021-05-31 14:07:33
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:13
+ * @LastEditTime: 2021-08-24 10:27:09
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \project-admin-api\models\team.js
+ * @FilePath: \code\project-admin-api\models\team.js
  */
+
 // 引入Sequelize模块
 const Sequelize = require('sequelize');
 // 引入数据库实例

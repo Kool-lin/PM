@@ -1,3 +1,12 @@
+/*
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:12
+ * @LastEditTime: 2021-08-24 10:20:04
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \code\project-admin\src\main.js
+ */
+
 import Vue from './Vue'
 import App from './App.vue'
 import router from './router'

@@ -1,3 +1,12 @@
+/*
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:12
+ * @LastEditTime: 2021-08-24 10:22:52
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \code\project-admin-api\controllers\admin.js
+ */
+
 // 引入公共方法
 const Common = require('./common');
 // 引入admin表的model

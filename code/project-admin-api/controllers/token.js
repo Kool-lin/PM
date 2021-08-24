@@ -1,3 +1,12 @@
+/*
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:12
+ * @LastEditTime: 2021-08-24 10:25:00
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \code\project-admin-api\controllers\token.js
+ */
+
 // 引入jsonwebtoken包
 const jwt = require ('jsonwebtoken');
 // 设定一个密钥，用来加密和解密token

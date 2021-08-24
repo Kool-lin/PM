@@ -1,3 +1,12 @@
+<!--
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:12
+ * @LastEditTime: 2021-08-24 10:02:13
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \code\project-admin\src\components\page\403.vue
+-->
+
 <template>
   <div class="error-page">
       <div class="error-code">4<span>0</span>3</div>

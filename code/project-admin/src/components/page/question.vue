@@ -1,11 +1,12 @@
 <!--
- * @Author: your name
- * @Date: 2021-04-10 14:21:40
- * @LastEditTime: 2021-04-21 22:43:20
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:12
+ * @LastEditTime: 2021-08-24 10:18:41
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \wish-question\src\components\page\question.vue
+ * @FilePath: \code\project-admin\src\components\page\question.vue
 -->
+
 <template>
   <div class="table">
     <div class="crumbs">

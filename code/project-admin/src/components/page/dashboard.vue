@@ -1,3 +1,12 @@
+<!--
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:12
+ * @LastEditTime: 2021-08-24 10:17:00
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \code\project-admin\src\components\page\dashboard.vue
+-->
+
 <template>
   <div class="container">
     <el-row :gutter="20">

@@ -1,11 +1,12 @@
 /*
- * @Author: your name
- * @Date: 2019-04-21 16:58:16
- * @LastEditTime: 2020-12-08 14:20:29
- * @LastEditors: Please set LastEditors
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:12
+ * @LastEditTime: 2021-08-24 10:20:25
+ * @LastEditors: your name
  * @Description: In User Settings Edit
- * @FilePath: \第3章\wish-admin\src\Vue.js
+ * @FilePath: \code\project-admin\src\Vue.js
  */
+
 import Vue from 'vue'
 import ElementUI from 'element-ui';
 import axios from "axios";

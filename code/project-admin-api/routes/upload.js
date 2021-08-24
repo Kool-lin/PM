@@ -1,11 +1,12 @@
 /*
- * @Author: your name
- * @Date: 2021-05-03 10:56:59
- * @LastEditTime: 2021-05-28 07:38:03
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:13
+ * @LastEditTime: 2021-08-24 10:30:12
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \project-admin-api\routes\upload.js
+ * @FilePath: \code\project-admin-api\routes\upload.js
  */
+
 const express = require('express')
     // 引入路由对象
 var router = express.Router();

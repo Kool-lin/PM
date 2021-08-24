@@ -1,11 +1,12 @@
 /*
- * @Author: your name
- * @Date: 2019-05-08 11:07:23
- * @LastEditTime: 2021-05-31 14:00:22
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:13
+ * @LastEditTime: 2021-08-24 10:27:30
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \project-admin-api\routes\middleware\verify.js
+ * @FilePath: \code\project-admin-api\routes\middleware\verify.js
  */
+
 // 引入Token处理的controller
 const Token = require('../../controllers/token');
 // 引入常量

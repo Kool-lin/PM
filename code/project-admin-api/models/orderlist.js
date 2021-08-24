@@ -1,11 +1,12 @@
 /*
- * @Author: your name
- * @Date: 2021-04-10 15:02:41
- * @LastEditTime: 2021-05-03 16:14:13
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:12
+ * @LastEditTime: 2021-08-24 10:25:58
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \wish-admin-api\models\orderlist.js
+ * @FilePath: \code\project-admin-api\models\orderlist.js
  */
+
 // 引入Sequelize模块
 const Sequelize = require('sequelize');
 // 引入数据库实例

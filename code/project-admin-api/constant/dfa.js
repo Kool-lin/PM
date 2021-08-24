@@ -1,11 +1,12 @@
 /*
- * @Author: your name
- * @Date: 2021-05-11 22:25:40
- * @LastEditTime: 2021-05-28 08:05:53
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:12
+ * @LastEditTime: 2021-08-24 10:21:33
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \project-admin-api\constant\dfa.js
+ * @FilePath: \code\project-admin-api\constant\dfa.js
  */
+
 // 2s 之后返回双倍的值
 function doubleAfter2seconds(num) {
 

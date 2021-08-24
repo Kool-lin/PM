@@ -1,11 +1,12 @@
 <!--
- * @Author: your name
- * @Date: 2019-04-21 15:20:48
- * @LastEditTime: 2021-05-05 10:34:13
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:12
+ * @LastEditTime: 2021-08-24 10:01:34
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \第3章\wish-admin\src\components\common\Sidebar.vue
+ * @FilePath: \code\project-admin\src\components\common\Sidebar.vue
 -->
+
 <template>
     <div class="sidebar">
         <el-menu class="sidebar-el-menu" :default-active="onRoutes" background-color="#324157"

@@ -1,11 +1,12 @@
 /*
- * @Author: your name
- * @Date: 2021-05-31 14:00:43
- * @LastEditTime: 2021-05-31 14:10:35
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:13
+ * @LastEditTime: 2021-08-24 10:29:57
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \project-admin-api\routes\team.js
+ * @FilePath: \code\project-admin-api\routes\team.js
  */
+
 // 引入Express对象
 var express = require('express');
 // 引入路由对象

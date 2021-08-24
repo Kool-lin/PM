@@ -1,11 +1,12 @@
 /*
- * @Author: your name
- * @Date: 2019-04-21 15:46:32
- * @LastEditTime: 2021-05-03 10:49:48
+ * @Author: coollin
+ * @Date: 2021-04-21 15:46:32
+ * @LastEditTime: 2021-08-24 10:22:21
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \project-admin-api\controllers\common.js
+ * @FilePath: \code\project-admin-api\controllers\common.js
  */
+
 // 引入async模块
 const async = require('async');
 // 引入常量模块

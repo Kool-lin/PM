@@ -1,11 +1,12 @@
 <!--
- * @Author: your name
- * @Date: 2019-04-21 15:20:48
- * @LastEditTime: 2021-05-27 15:00:06
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:12
+ * @LastEditTime: 2021-08-24 09:56:49
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \第3章\wish-admin\src\App.vue
+ * @FilePath: \code\project-admin\src\App.vue
 -->
+
 <template>
     <div id="app">
         <router-view></router-view>

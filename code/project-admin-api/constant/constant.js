@@ -1,11 +1,12 @@
 /*
- * @Author: your name
- * @Date: 2021-04-10 21:17:21
- * @LastEditTime: 2021-05-26 18:29:18
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:12
+ * @LastEditTime: 2021-08-24 10:21:11
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \Project-admin-api\constant\constant.js
+ * @FilePath: \code\project-admin-api\constant\constant.js
  */
+
 // 定义一个对象
 const obj = {
     // 默认请求成功

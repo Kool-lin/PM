@@ -1,11 +1,12 @@
 <!--
- * @Author: your name
- * @Date: 2021-03-13 21:18:08
- * @LastEditTime: 2021-05-11 21:36:42
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:12
+ * @LastEditTime: 2021-08-24 10:19:12
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \第3章\wish-admin\src\components\page\task.vue
+ * @FilePath: \code\project-admin\src\components\page\taskView.vue
 -->
+
 <template>
   <div class="table">
     <div class="crumbs">

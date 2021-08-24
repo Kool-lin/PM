@@ -1,11 +1,12 @@
 /*
- * @Author: your name
- * @Date: 2019-05-07 13:45:53
- * @LastEditTime: 2021-05-04 15:52:39
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:12
+ * @LastEditTime: 2021-08-24 10:22:25
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \controllers\index.js
+ * @FilePath: \code\project-admin-api\controllers\index.js
  */
+
 // 引入公共方法
 const Common = require('./common');
 // 引入admin表的model

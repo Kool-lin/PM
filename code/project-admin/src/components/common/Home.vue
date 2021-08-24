@@ -1,11 +1,12 @@
 <!--
- * @Author: your name
- * @Date: 2019-04-21 15:20:48
- * @LastEditTime: 2021-03-27 11:04:08
- * @LastEditors: your name
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:12
+ * @LastEditTime: 2021-08-24 10:00:27
+ * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \wish-admin\src\components\common\Home.vue
+ * @FilePath: \code\project-admin\src\components\common\Home.vue
 -->
+
 <template>
     <div class="wrapper">
         <v-head></v-head>

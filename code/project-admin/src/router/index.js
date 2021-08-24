@@ -1,11 +1,12 @@
 /*
- * @Author: your name
- * @Date: 2019-04-21 15:20:48
- * @LastEditTime: 2021-05-06 21:20:12
+ * @Author: coollin
+ * @Date: 2021-04-06 19:31:12
+ * @LastEditTime: 2021-08-24 10:19:38
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \第3章\wish-admin\src\router\index.js
+ * @FilePath: \code\project-admin\src\router\index.js
  */
+
 import Vue from 'vue';
 import Router from 'vue-router';
 
